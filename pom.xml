@@ -462,7 +462,6 @@
                                     <customizedJre>false</customizedJre>
                                     <generateInstaller>true</generateInstaller>
                                     <platform>mac</platform>
-                                    <arch>${os.arch}</arch>
                                     <runnableJar>target/rodain-app${jar.id}-${project.version}_OtherOS.jar</runnableJar>
                                     <additionalResources>
                                         <additionalResource>src/main/resources</additionalResource>
